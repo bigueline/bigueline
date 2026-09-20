@@ -1,3 +1,5 @@
+<img src="./assets/github-banner.png" alt="Developer Telemetry — Gabriel Bigueline" width="100%">
+
 # Olá! Eu sou o Gabriel 👋
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
