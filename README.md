@@ -1,35 +1,28 @@
 <img src="./assets/github-banner.png" alt="Developer Telemetry — Gabriel Bigueline" width="100%">
 
-# Olá! Eu sou o Gabriel 👋
+## 👋 Sobre mim
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas  
-🚀 Em formação para me tornar Desenvolvedor Full Stack  
-📚 Atualmente estudando e desenvolvendo projetos com HTML, CSS e JavaScript  
-🧠 Aprendendo programação através de projetos práticos e resolução de problemas  
-🎯 Focado em evoluir minhas habilidades em Front-end e Back-end  
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em formação, transformando meus estudos em projetos práticos.
 
-## 🚀 Tecnologias que estou aprendendo
+Atualmente, estou aprofundando meus conhecimentos em **Python**, desenvolvimento web e lógica de programação, enquanto construo projetos para praticar todo o ciclo de desenvolvimento — da ideia e implementação aos testes, debugging, Git e documentação.
 
-- HTML5
-- CSS3
-- JavaScript
+> **Building one lap at a time.** 🏎️
 
-## 🛠️ Atualmente trabalhando em
+## 🏁 Projetos em destaque
 
-Estou desenvolvendo projetos práticos para aplicar os conceitos que estudo e construir meu portfólio.
+### 🔗 Gerador de Links
 
-Alguns dos meus estudos envolvem:
+Meu primeiro projeto web, desenvolvido para praticar **HTML, CSS e JavaScript**, trabalhando responsividade, manipulação do DOM e alternância entre tema claro e escuro.
 
-- Desenvolvimento Web
-- Lógica de Programação
-- Manipulação do DOM
-- Git e GitHub
-- Testes e Qualidade de Software
-- Debugging
+[🔎 Ver projeto no GitHub](https://github.com/bigueline/gerador-de-links)
 
-## 📈 Meu objetivo
+### 🏋️ FitLife
 
-Continuar evoluindo como desenvolvedor, aprender novas tecnologias e transformar conhecimento em projetos reais.
+Sistema de gerenciamento de alunos de academia desenvolvido com **HTML, CSS e JavaScript**, com cadastro, busca, edição e exclusão de alunos, validações de dados e persistência utilizando LocalStorage.
+
+O projeto também passou por etapas de **UI/UX no Figma**, responsividade para desktop e mobile, testes e debugging.
+
+[🔎 Ver projeto no GitHub](https://github.com/bigueline/FitLife) • [🌐 Acessar projeto](https://bigueline.github.io/FitLife/)
 
 ## 📫 Vamos nos conectar
 
