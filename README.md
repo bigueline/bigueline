@@ -1,5 +1,7 @@
 <img src="./assets/github-banner.png" alt="Developer Telemetry — Gabriel Bigueline" width="100%">
 
+<img src="./assets/telemetry.svg" alt="Telemetria pública do GitHub: repositórios, seguidores, estrelas e linguagens. Snapshot com horário da coleta; não é tempo real." width="100%">
+
 ## 👋 Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em formação, transformando meus estudos em projetos práticos.
