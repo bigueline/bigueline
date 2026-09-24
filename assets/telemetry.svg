@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="490" viewBox="0 0 1000 490" role="img" aria-labelledby="title desc">
   <title id="title">Telemetria pública de bigueline</title>
-  <desc id="desc">Snapshot coletado em 2026-09-23 14:13 UTC: 4 repositórios públicos,
+  <desc id="desc">Snapshot coletado em 2026-09-24 14:12 UTC: 4 repositórios públicos,
     1 seguidores e 3 estrelas em repositórios sem forks.
     Barras: até três linguagens principais, por quantidade de repos sem forks com linguagem identificada.
     Atualização diária prevista; não é tempo real.</desc>
@@ -47,7 +47,7 @@
   <text x="960" y="323" text-anchor="end" class="muted small">SEM FORKS</text>
   <text x="960" y="347" text-anchor="end" class="muted small">TOP 3</text>
   <path d="M40 425 H960" stroke="#8B949E" opacity="0.3"/>
-  <text x="40" y="452" class="muted small">COLETA // 2026-09-23 14:13 UTC</text>
+  <text x="40" y="452" class="muted small">COLETA // 2026-09-24 14:12 UTC</text>
   <text x="960" y="452" text-anchor="end" class="green small">BUILDING ONE LAP AT A TIME.</text>
   <text x="40" y="474" class="muted" font-size="12">Atualização diária prevista · Dados da API pública · Não é tempo real</text>
 </svg>
